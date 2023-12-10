@@ -9,3 +9,5 @@ Technologies used:
 <li>Google Fonts</li>
 <li>Ionic Icons</li>
 <li>Weather API</li>
+
+![image](https://github.com/saulgutierrez/weather-app/assets/62368834/1a6b4f4e-403d-4011-8140-5265a06477bd)
